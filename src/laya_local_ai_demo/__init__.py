@@ -1,2 +1,1 @@
-def main() -> None:
-    print("Hello from laya-local-ai-demo!")
+"""Local support-ticket routing demo built on Laya."""

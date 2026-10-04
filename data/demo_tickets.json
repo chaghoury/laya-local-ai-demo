@@ -1,0 +1,34 @@
+[
+  {
+    "ticket": "I was charged twice for the same monthly subscription.",
+    "expected_queue": "billing"
+  },
+  {
+    "ticket": "Please refund the duplicate payment on my latest invoice.",
+    "expected_queue": "billing"
+  },
+  {
+    "ticket": "The desktop app crashes whenever I open the reports page.",
+    "expected_queue": "technical"
+  },
+  {
+    "ticket": "Our API integration has returned a 500 error since this morning.",
+    "expected_queue": "technical"
+  },
+  {
+    "ticket": "I cannot sign in after resetting my password.",
+    "expected_queue": "account"
+  },
+  {
+    "ticket": "How can I change the email address on my account?",
+    "expected_queue": "account"
+  },
+  {
+    "ticket": "Could you share the release notes for the new dashboard?",
+    "expected_queue": "other"
+  },
+  {
+    "ticket": "I would like to suggest adding a dark theme.",
+    "expected_queue": "other"
+  }
+]
